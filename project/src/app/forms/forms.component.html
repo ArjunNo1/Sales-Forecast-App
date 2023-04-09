@@ -1,0 +1,31 @@
+<form (ngSubmit)="onSubmit()">
+  <input type="file" (change)="onFileChange($event)">
+  <br><br>
+  <label>Number Value: </label>
+  <input type="number" [(ngModel)]="num" name="num">
+  <br><br>
+  <button type="submit">Submit</button>
+
+
+  <div class="alert alert-success" role="alert">
+    <!-- <div *ngFor="let item of response | keyvalue">
+      {{ item.key }} : {{ item.value }}
+    </div> -->
+    <h2>Forecasted Data:</h2>
+<div *ngFor="let item of response.ForecastedData | keyvalue">
+  {{ item.key }}: {{ item.value }}
+</div>
+
+<h2>MAE:</h2>
+{{ response.mae }}
+
+<h2>MAPE:</h2>
+{{ response.mape }}
+
+<h2>MSE:</h2>
+{{ response.mse }}
+
+  </div>
+</form>
+
+  
