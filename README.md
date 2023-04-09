@@ -1,6 +1,6 @@
 # Sales Prediction Analysis
  <img align="right" alt="Sales" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2020/07/ts.gif?fit=800%2C600&ssl=1">
-
+ 
 ## Tech Stacks Used:
 
 - Machine learning model (SARIMAX Model)
@@ -34,6 +34,6 @@ python app.py
 ```
 
 
-
+-It is under Development
 - Note: This Application will be worked only for the following single dataset which you can find in Kaggle 
  [Dataset Link](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
