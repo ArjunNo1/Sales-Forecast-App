@@ -1,4 +1,5 @@
 # Sales Prediction Analysis
+ <img align="right" alt="Sales" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2020/07/ts.gif?fit=800%2C600&ssl=1">
 
 ## Tech Stacks Used:
 
