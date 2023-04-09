@@ -33,7 +33,9 @@ python app.py
 
 ```
 
-
--It is under Development
 - Note: This Application will be worked only for the following single dataset which you can find in Kaggle 
  [Dataset Link](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+
+
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+ 💬 I am happy to Colloborate :)
