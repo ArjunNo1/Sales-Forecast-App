@@ -12,7 +12,7 @@
 - Clone the repository
 
 ```
-$ git clone https://github.com/anjupriya-v/sales-prediction-analysis.git
+$ git clone https://github.com/ArjunNo1/Sales-Forecast-App.git
 ```
 
 - Redirect to the cloned repo directory
